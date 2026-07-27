@@ -1,5 +1,5 @@
 # Data Warehouse and Analytics Project
-Building a modren data warehouse using SQL Server , including ETL processes , data modeling and analytics.
+Building a modernn data warehouse using SQL Server , including ETL processes , data modeling and analytics.
 
 This project involves:
 1. Building a modern data warehouse using the Medallion Architecture (Bronze, Silver, and Gold).
