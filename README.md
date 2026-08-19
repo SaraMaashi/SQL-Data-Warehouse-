@@ -15,3 +15,15 @@ Specifications:
 - Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 # Source Systems
+The Data Warehouse combines data from two separate operational systems:
+# CRM (Customer Relationship Management)
+- cust_info.csv — Customer information
+- prd_info.csv — Current & History Product Infromation
+- sales_details.csv — Transactional Records about Sales & Orders
+# ERP (Enterprise Resource Planning)
+- CUST_AZ12.csv — Extra Customer Information (Birthdate)
+- LOC_A101.csv — Location of Customers (Country)
+- PX_CAT_G1V2.csv — Product categories
+
+بربDVCDSDF
+# ؤقيرDCؤير
